@@ -65,6 +65,15 @@ Since you have a half court:
 | Intermediate | 3-2-1 from the three-point line |
 | Advanced | 4-3-2-1 from the three-point line (Curry's version) |
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Consecutive makes drill explained | Off-Season Workout | [Watch at 14:42](https://www.youtube.com/watch?v=6mnujT_fzlY&t=882) |
+| The "21" transition game (between rounds) | Off-Season Workout | [Watch at 15:39](https://www.youtube.com/watch?v=6mnujT_fzlY&t=939) |
+| Heart rate monitoring — why it matters | Off-Season Workout | [Watch at 17:22](https://www.youtube.com/watch?v=6mnujT_fzlY&t=1042) |
+| "Not all makes are good makes" | Off-Season Workout | [Watch at 23:11](https://www.youtube.com/watch?v=6mnujT_fzlY&t=1391) |
+
 ## Curry's Benchmark
 
 In the offseason workout video, Curry completed the full 4-3-2-1 version and beat his target time by approximately 30 seconds, while interleaving a transition shooting game ("21") between rounds.

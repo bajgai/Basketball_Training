@@ -99,6 +99,21 @@ When alone with no rebounder:
 | Intermediate | 100 makes (5 makes x 4 distances x 5 angles) |
 | Advanced | 100 makes with no mechanical breakdown under fatigue |
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Full form shooting progression | MasterClass Part 1 | [Watch at 24:19](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1459) |
+| "Shoot from the ground up" — legs provide power | MasterClass Part 1 | [Watch at 5:42](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=342) |
+| 10 toes to the rim | MasterClass Part 1 | [Watch at 7:16](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=436) |
+| Ball on fingertip pads (hand positioning) | MasterClass Part 1 | [Watch at 12:17](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=737) |
+| Eye target — front of the rim / hooks | MasterClass Part 1 | [Watch at 14:18](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=858) |
+| Gooseneck follow-through / release point | MasterClass Part 1 | [Watch at 15:28](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=928) |
+| 45-48 degree arc | MasterClass Part 1 | [Watch at 18:09](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1089) |
+| Self-toss drill (solo adaptation) | MasterClass Part 1 | [Watch at 26:15](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1575) |
+| Diagnosing misses (left/right vs short/long) | MasterClass Part 1 | [Watch at 28:04](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1684) |
+| Form shooting (full MasterClass version) | Full MasterClass | [Watch at 22:32](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=1353) |
+
 ## Key Quote
 
 > "Even the greatest shooter of all time has to work on very small details." — Brandon Payne

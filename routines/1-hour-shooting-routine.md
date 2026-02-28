@@ -25,7 +25,7 @@ This routine rebuilds your shot from the ground up every session, then progressi
 ### Phase 1: Warm-Up & Activation (8 min)
 
 #### Ball Handling — 3 min
-> [Drill: Stationary Ball Handling Foundation](../drills/02-stationary-ball-handling.md)
+> [Drill: Stationary Ball Handling Foundation](../drills/02-stationary-ball-handling.md) | [Watch Curry demo](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=3051)
 
 - 20 crossovers (10 each direction)
 - 20 between-the-legs (10 each direction)
@@ -35,7 +35,7 @@ This routine rebuilds your shot from the ground up every session, then progressi
 **Focus:** Hard, aggressive dribbles. Eyes up. Nose centered. This wakes up your hands and gets you in an athletic stance.
 
 #### Form Shooting (Close Range) — 5 min
-> [Drill: Form Shooting Progression](../drills/01-form-shooting-progression.md)
+> [Drill: Form Shooting Progression](../drills/01-form-shooting-progression.md) | [Watch Curry demo](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1459)
 
 - 5 angles around the basket
 - **2 distances only** (at the rim + short range)
@@ -48,7 +48,7 @@ This routine rebuilds your shot from the ground up every session, then progressi
 
 ### Phase 2: Pickup Shooting — Energy Transfer Focus (12 min)
 
-> [Drill: Pickup Shooting](../drills/03-pickup-shooting.md)
+> [Drill: Pickup Shooting](../drills/03-pickup-shooting.md) | [Watch Curry demo](https://www.youtube.com/watch?v=6mnujT_fzlY&t=119)
 
 This is your **most important phase**. This is where you fix the three-point energy transfer.
 
@@ -77,7 +77,7 @@ This is your **most important phase**. This is where you fix the three-point ene
 
 ### Phase 3: Catch-and-Shoot with Footwork (10 min)
 
-> [Drill: Catch-and-Shoot Footwork](../drills/04-catch-and-shoot-footwork.md)
+> [Drill: Catch-and-Shoot Footwork](../drills/04-catch-and-shoot-footwork.md) | [Watch Curry demo](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=453)
 
 #### From Mid-Range (5 min)
 At 3 spots (right wing, top of key, left wing):
@@ -98,7 +98,7 @@ Same 3 spots, same 4 directions:
 
 ### Phase 4: Three-Point Distance Ladder (12 min)
 
-> [Drill: Three-Point Distance Ladder](../drills/05-three-point-distance-ladder.md)
+> [Drill: Three-Point Distance Ladder](../drills/05-three-point-distance-ladder.md) | [Watch Curry demo](https://www.youtube.com/watch?v=6mnujT_fzlY&t=765)
 
 This phase teaches your body to **feel** the difference between distances and automatically adjust power output.
 
@@ -118,7 +118,7 @@ Run 3 full rounds = **45 shots**
 
 ### Phase 5: Consecutive Makes Game — Game Pressure (12 min)
 
-> [Drill: Consecutive Makes Game](../drills/06-consecutive-makes-game.md)
+> [Drill: Consecutive Makes Game](../drills/06-consecutive-makes-game.md) | [Watch Curry demo](https://www.youtube.com/watch?v=6mnujT_fzlY&t=882)
 
 Now you shoot under pressure with an elevated heart rate.
 
@@ -146,7 +146,7 @@ Now you shoot under pressure with an elevated heart rate.
 ### Phase 6: Cool-Down — Free Throws & Quality Shots (6 min)
 
 #### Free Throw Swish Game (3 min)
-> [Drill: Free Throw Swish Game](../drills/07-free-throw-swish-game.md)
+> [Drill: Free Throw Swish Game](../drills/07-free-throw-swish-game.md) | [Watch Curry demo](https://www.youtube.com/watch?v=6mnujT_fzlY&t=1298)
 
 - Goal: 4 consecutive swished free throws (no rim contact)
 - If any shot touches the rim, restart the count

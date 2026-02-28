@@ -81,6 +81,17 @@ Work from at least 3 spots:
 | Intermediate | All 4 directions, mid-range and three-point line |
 | Advanced | All 4 directions at game speed, add self-toss variability |
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Catch-and-shoot fundamentals | MasterClass Part 1 | [Watch at 30:30](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1830) |
+| Four-way form shooting with movement | Full MasterClass | [Watch at 40:10](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=2410) |
+| One-two step into jump shot | MasterClass Part 2 | [Watch at 7:33](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=453) |
+| Lateral movement into jump shot | MasterClass Part 2 | [Watch at 8:10](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=490) |
+| Backward movement into jump shot | MasterClass Part 2 | [Watch at 8:53](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=533) |
+| One-two step pickup shooting | Full MasterClass | [Watch at 1:22:48](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=4968) |
+
 ## Key Principle
 
 > "Your mechanics stay exactly the same. You're just adding the footwork."

@@ -81,6 +81,17 @@ String 2-3 dribble moves together, then pickup into shot.
 | Shot feels rushed from three | Breaking the kinetic chain | One continuous motion — don't pause between dribble and shot |
 | Ball path feels off | Picking up from wrong position | Ball should be just outside your knee |
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Pickup shooting explained (Brandon Payne) | Off-Season Workout | [Watch at 1:59](https://www.youtube.com/watch?v=6mnujT_fzlY&t=119) |
+| Right hand pickup (hard pound into shot) | MasterClass Part 1 | [Watch at 1:02:25](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=3745) |
+| Left hand / off-hand pickup | MasterClass Part 1 | [Watch at 1:04:17](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=3857) |
+| Pickup shooting (full MasterClass version) | Full MasterClass | [Watch at 1:02:49](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=3769) |
+| Off-hand pickup (full MasterClass) | Full MasterClass | [Watch at 1:05:11](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=3912) |
+| Combo dribble moves into shot | MasterClass Part 2 | [Watch at 10:43](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=643) |
+
 ## Progression Levels
 
 | Level | Target |

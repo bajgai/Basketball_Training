@@ -62,6 +62,14 @@ The ladder forces your body to constantly recalibrate power output:
 - After a deep three, a regular three feels easy (you've already loaded more)
 - Your body learns the **feel** of each distance through contrast
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Three-range variable ladder (deep two → three → deep three) | Off-Season Workout | [Watch at 12:45](https://www.youtube.com/watch?v=6mnujT_fzlY&t=765) |
+| "Aim small, miss small" concept | Off-Season Workout | [Watch at 11:59](https://www.youtube.com/watch?v=6mnujT_fzlY&t=719) |
+| Variable shooting drill (changing angles) | Off-Season Workout | [Watch at 12:15](https://www.youtube.com/watch?v=6mnujT_fzlY&t=735) |
+
 ## Progression Levels
 
 | Level | Target |

@@ -40,6 +40,14 @@ A swish means:
 
 If you can swish free throws consistently, your mechanics are dialed in.
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Free throw "60" game explained | Off-Season Workout | [Watch at 21:38](https://www.youtube.com/watch?v=6mnujT_fzlY&t=1298) |
+| "Your body remembers the last 20-30 shots" | Off-Season Workout | [Watch at 24:16](https://www.youtube.com/watch?v=6mnujT_fzlY&t=1456) |
+| 100 threes to end every workout | MasterClass Part 1 | [Watch at 19:40](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=1180) |
+
 ## Progression Levels
 
 | Level | Target |

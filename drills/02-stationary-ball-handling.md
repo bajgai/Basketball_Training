@@ -80,6 +80,16 @@ At any moment during any of the three moves, you should be able to bring the bal
 - Palming the ball
 - Moving body around the ball
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Three fundamental moves (crossover, between legs, behind back) | MasterClass Part 1 | [Watch at 50:51](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=3051) |
+| Rep structure (20 → 6 → 2 → 1) | MasterClass Part 1 | [Watch at 55:31](https://www.youtube.com/watch?v=JVYNAwtyRE8&t=3331) |
+| Ball handling body position and technique | Full MasterClass | [Watch at 47:07](https://www.youtube.com/watch?v=WZUl4qaNpCI&t=2828) |
+| Taking moves on the move | MasterClass Part 2 | [Watch at 1:09](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=69) |
+| "Fast ball, slow feet" concept | MasterClass Part 2 | [Watch at 1:15](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=75) |
+
 ## Progression Levels
 
 | Level | Target |

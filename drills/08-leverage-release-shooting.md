@@ -65,6 +65,17 @@ If you notice your shots drifting to one side after the lateral release:
 4. This engages your anti-rotation muscles
 5. Return to the drill — the drift should improve
 
+## Video References
+
+| Topic | Video | Link |
+|-------|-------|------|
+| Leverage release — lateral (side-step) | Off-Season Workout | [Watch at 2:58](https://www.youtube.com/watch?v=6mnujT_fzlY&t=178) |
+| Leverage release — straight back (step-back) | Off-Season Workout | [Watch at 5:36](https://www.youtube.com/watch?v=6mnujT_fzlY&t=336) |
+| Body control curl shooting drill | Off-Season Workout | [Watch at 7:16](https://www.youtube.com/watch?v=6mnujT_fzlY&t=436) |
+| Jab step / creating space | MasterClass Part 2 | [Watch at 25:06](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=1506) |
+| Center jab (against crowding defenders) | MasterClass Part 2 | [Watch at 28:10](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=1690) |
+| Pull dribble / hesitation into step-back | MasterClass Part 2 | [Watch at 29:49](https://www.youtube.com/watch?v=tKpJdAnX5sk&t=1789) |
+
 ## Progression Levels
 
 | Level | Target |

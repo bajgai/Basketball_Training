@@ -22,6 +22,46 @@ The foundation of every Curry workout. Start close to the basket and work outwar
 4. Left wing
 5. Left corner
 
+### Court Diagram — 5 Angles, 4 Distances
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                 /  |  \                   |
+  |         4---3--2--1|1--2--3---4           |
+  |        /   |  LANE |         \            |
+  |       /    |----FT----|       \           |
+  |      /      \       /         \           |
+  |     /        \_____/           \          |
+  |    4                            4         |
+  |   /  3                        3  \        |
+  |  /  / 2                      2 \  \       |
+  | /  / / 1          1          \ \  \ \     |
+  |/  / /            / \          \ \  \ \    |
+  |  / /     3PT    /   \          \ \  \     |
+  | / /       ARC  /     \          \ \       |
+  |/ /            /       \          \        |
+  | /            /         \                  |
+  |/            /           \                 |
+  ============================================
+
+  Angle 1: Right side of rim       (top right)
+  Angle 2: Right wing              (right side)
+  Angle 3: Top of the key          (center)
+  Angle 4: Left wing               (left side)
+  Angle 5: Left corner             (bottom left)
+
+  1 = At the rim (~3 ft)
+  2 = Short range (~6 ft)
+  3 = Mid-range  (~10 ft)
+  4 = Extended   (~15 ft)
+
+  ORDER: Complete all 4 distances at Angle 1,
+         then move to Angle 2, etc.
+```
+
 ### 4 Distances at Each Angle
 
 Start directly at the rim and step back after each set of 5 makes:

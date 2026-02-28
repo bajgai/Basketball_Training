@@ -12,6 +12,32 @@ A free throw accuracy challenge that Curry uses to cool down and sharpen focus a
 - **Court:** Free throw line
 - **Players:** 1
 
+## Court Diagram
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              |           |                |
+  |              |           |                |
+  |              |           |                |
+  |              |----FT-----|                |
+  |                   ^                       |
+  |                   |                       |
+  |                  [X]                      |
+  |             You stand here                |
+  |                                           |
+  |                                           |
+  ============================================
+
+  [X] = Free throw line (15 ft from basket)
+
+  Goal: 6 consecutive SWISHES from this spot.
+  No rim contact allowed on any of the 6.
+```
+
 ## Structure
 
 ### The Challenge

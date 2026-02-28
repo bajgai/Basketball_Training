@@ -20,6 +20,44 @@ A shooting ladder that cycles through three distances — deep mid-range, three-
 2. **Three-pointer** — right at the three-point line
 3. **Deep three** — 2-3 feet behind the three-point line
 
+### Court Diagram — 5 Spots, 3 Distances Each
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              |   LANE   |                 |
+  |              |----FT----|                 |
+  |               \       /                   |
+  |                \_____/                    |
+  |  A                                  B     |
+  | A A         ...........           B B     |
+  |A A A       .    3PT    .         B B B    |
+  |            .    ARC     .                 |
+  |    C      .              .      D         |
+  |   C C    .                .    D D        |
+  |  C C C  .                  .  D D D       |
+  |        .        E          .              |
+  |       .        E E          .             |
+  |      .        E E E          .            |
+  ============================================
+
+  A = Right corner    B = Left corner
+  C = Right wing      D = Left wing
+  E = Top of the key
+
+  At each spot (A-E), the 3 markers represent:
+    Inner  = Deep two  (inside the line)
+    Middle = Three-pointer (at the line)
+    Outer  = Deep three (behind the line)
+
+  MOVEMENT PATTERN (mirror sides):
+  A --> B --> C --> D --> E
+  (R corner -> L corner -> R wing -> L wing -> Top)
+```
+
 ### Shot Pattern
 
 From each spot, shoot one from each distance, then move to the mirrored spot on the other side:

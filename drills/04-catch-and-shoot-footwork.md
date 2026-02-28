@@ -36,6 +36,41 @@ From each spot on the floor, shoot 5 perfect makes from each direction of moveme
 - Move purely lateral — do NOT drift toward the basket or toward the defender
 - 5 makes from each side
 
+## Court Diagram — 3 Spots, 4 Directions Each
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              |   LANE   |                 |
+  |              |----FT----|                 |
+  |               \       /                   |
+  |                \_____/                    |
+  |                                           |
+  |                   ^                       |
+  |                   | toward                |
+  |              <--[SPOT 3]-->               |
+  |     ^             | away      ^           |
+  |     | toward      v           | toward    |
+  |<--[SPOT 1]-->            <--[SPOT 2]-->   |
+  |     | away                    | away      |
+  |     v            3PT          v           |
+  ============================================
+
+  SPOT 1: Right wing
+  SPOT 2: Left wing  (not shown left for spacing)
+  SPOT 3: Top of the key
+
+  At each spot, shoot 5 makes from each direction:
+    ^  = Moving TOWARD basket, step forward into shot
+    v  = Moving AWAY from basket, step backward into shot
+   <-> = Moving LATERALLY, shuffle into shot
+
+  Work mid-range first, then move to 3PT line.
+```
+
 ## Court Spots
 
 Work from at least 3 spots:

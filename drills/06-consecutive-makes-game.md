@@ -20,6 +20,44 @@ A pressure shooting drill where you must make consecutive shots from each of fiv
 4. Left wing (three-point line)
 5. Left corner (three-point line)
 
+## Court Diagram — 5 Spots + Sprint Path
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              |   LANE   |                 |
+  |              |----FT----|                 |
+  |               \       /                   |
+  |                \_____/                    |
+  |                                           |
+  |  [1]           [3]            [5]         |
+  |       ....... 3PT .ARC .......            |
+  |      .                        .           |
+  |     .                          .          |
+  |  [2].                          .[4]       |
+  |     .                          .          |
+  |      .                        .           |
+  ============================================
+            <--- SPRINT --->
+        (sideline to sideline between rounds)
+
+  [1] = Right corner
+  [2] = Right wing
+  [3] = Top of the key
+  [4] = Left wing
+  [5] = Left corner
+
+  ROUND 1:  3 consecutive makes at each spot [1]->[5]
+            Sprint sideline-to-sideline (x2)
+  ROUND 2:  2 consecutive makes at each spot [1]->[5]
+            Sprint sideline-to-sideline (x2)
+  ROUND 3:  1 make at each spot (STAR pattern)
+            Move fast: [1]->[3]->[5]->[2]->[4]
+```
+
 ## Structure
 
 ### Round 1: 3 Consecutive Makes

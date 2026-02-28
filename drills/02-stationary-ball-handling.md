@@ -48,6 +48,38 @@ Master the three fundamental dribble moves that Curry uses "99% of the time" in 
 - Then 2 reps
 - Then 1 rep
 
+## Stance Diagram
+
+```
+         FRONT VIEW                SIDE VIEW
+
+           EYES UP                  Eyes ---> up
+          (never down)                  \
+              |                          |
+         .----+----.               .----+
+        /     |     \             /     |
+       |   NOSE in   |          | Nose  | behind
+       |   CENTER    |          |       | toes
+        \    |      /            \     /
+         '---+----'               '--+'
+             |                       |  <-- Hips LOADED
+        .----|----.              .---+-----.
+       /     |     \            /    |      \
+      |  Ball between |        | Knees behind|
+      |  KNEE & HIP  |        |    toes     |
+       \     |      /          \    |      /
+        '----|----'             '---+----'
+             |                      |
+       ._____|_____.           _____|_____
+      |  SHOULDER  |          |           |
+      |   WIDTH    |          | Arch into |
+      |   APART    |          |  ground   |
+      '____________'          '___________'
+
+  Ball stays OUTSIDE feet, never inside
+  Weight on balls of feet, heels light
+```
+
 ## Technique Cues
 
 ### Body Position

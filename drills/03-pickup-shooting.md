@@ -19,6 +19,41 @@ When your mid-range shot feels good but your three feels forced, the problem is 
 - **Court:** Half court
 - **Players:** 1
 
+## Court Diagram — Pickup Progression
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              1  <- | ->  1                |
+  |            /  LANE |        \             |
+  |           /  ---FT----|      \            |
+  |          2    \       /    2              |
+  |         /      \_____/      \             |
+  |        /                     \            |
+  |       3                       3           |
+  |      /                         \          |
+  |     /       3PT ARC             \         |
+  |    4 . . . . . . . . . . . . . . 4       |
+  |   /                               \      |
+  |  /                                  \     |
+  ============================================
+
+  1 = Close range (~5 ft)  -- start here
+  2 = Short range (~8 ft)
+  3 = Mid-range  (~14 ft)
+  4 = THREE-POINT LINE     -- target distance
+
+  At each distance: 5 perfect makes,
+  then step back to the next number.
+
+  Phase 1: Dominant hand pound at all distances
+  Phase 2: Off-hand pound at all distances
+  Phase 3: Dribble moves into pickup from spot 4
+```
+
 ## Structure
 
 ### Phase 1: Single Pound Dribble (Dominant Hand)

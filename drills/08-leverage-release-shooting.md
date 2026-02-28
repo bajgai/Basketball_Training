@@ -33,6 +33,46 @@ A drill that trains shooting after creating space from a defender. Since you don
 
 **5 makes from each spot.**
 
+## Court Diagram — Lateral & Step-Back Movement
+
+```
+                       BASELINE
+  ============================================
+  |                    |                      |
+  |                  [RIM]                    |
+  |                    |                      |
+  |              |   LANE   |                 |
+  |              |----FT----|                 |
+  |               \       /                   |
+  |                \_____/                    |
+  |                                           |
+  |        VARIATION A: LATERAL RELEASE       |
+  |                                           |
+  |  X<--[1]-->X     X<--[2]-->X              |
+  |      ........ 3PT ..ARC.......            |
+  |     .                         .           |
+  |    .    X<--[3]-->X            .          |
+  |                                           |
+  |        VARIATION B: STEP-BACK             |
+  |                                           |
+  |           [1]         [2]                 |
+  |            ^           ^                  |
+  |            |           |   (start inside  |
+  |            S           S    the line,     |
+  |      ........ 3PT ..ARC.    step back     |
+  |     .                   .   to the line)  |
+  |    .        [3]          .                |
+  |              ^                            |
+  |              |                            |
+  |              S                            |
+  ============================================
+
+  [1] = Right wing   [2] = Left wing   [3] = Top of key
+   X  = Lateral landing spots (side-step left/right)
+   S  = Starting position (inside 3PT line)
+   ^  = Step-back direction (toward 3PT line)
+```
+
 ## Court Spots
 
 1. Right wing

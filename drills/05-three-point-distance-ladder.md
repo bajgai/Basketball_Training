@@ -2,6 +2,8 @@
 
 > Source: Brandon Payne Offseason Workout
 
+![Three-Point Distance Ladder](../images/05-three-point-distance-ladder.png)
+
 ## Overview
 
 A shooting ladder that cycles through three distances — deep mid-range, three-point line, and deep three — from mirrored spots on the floor. This trains your body to adjust power output shot-to-shot, which is exactly what fixes energy transfer issues at the three-point line.

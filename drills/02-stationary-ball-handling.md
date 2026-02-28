@@ -2,6 +2,8 @@
 
 > Source: Curry MasterClass Parts 1 & 2
 
+![Ball Handling Stance](../images/02-ball-handling-stance.png)
+
 ## Overview
 
 Master the three fundamental dribble moves that Curry uses "99% of the time" in games. Every combination and every creation of space is built from these three moves. This is done before any shooting as part of the warm-up.

@@ -2,6 +2,8 @@
 
 > Source: Curry MasterClass Parts 1 & 2
 
+![Catch-and-Shoot — 4 Directions](../images/04-catch-and-shoot-footwork.png)
+
 ## Overview
 
 Add movement and footwork to your catch-and-shoot. This bridges the gap between stationary form shooting and game-speed shooting where you're always moving before receiving the ball.

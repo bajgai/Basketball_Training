@@ -2,6 +2,8 @@
 
 > Source: Brandon Payne Offseason Workout
 
+![The Swish Game](../images/07-free-throw-swish-game.png)
+
 ## Overview
 
 A free throw accuracy challenge that Curry uses to cool down and sharpen focus at the end of workouts. The requirement to swish (no rim contact) forces extreme precision and a soft touch.

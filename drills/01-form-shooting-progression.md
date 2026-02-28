@@ -2,6 +2,8 @@
 
 > Source: Curry MasterClass, Brandon Payne Offseason Workout
 
+![Form Shooting Progression](../images/01-form-shooting-progression.png)
+
 ## Overview
 
 The foundation of every Curry workout. Start close to the basket and work outward, building confidence and calibrating mechanics before any perimeter shooting. Curry does this drill at the start of **every single workout and pregame**.

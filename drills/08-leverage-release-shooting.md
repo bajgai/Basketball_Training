@@ -2,6 +2,8 @@
 
 > Source: Brandon Payne Offseason Workout
 
+![Leverage Release — Create Space Into Shot](../images/08-leverage-release-shooting.jpeg)
+
 ## Overview
 
 A drill that trains shooting after creating space from a defender. Since you don't have a training partner to provide physical leverage, this is adapted as a **self-directed spacing drill** — practicing the footwork and balance of stepping away from an imaginary defender into a shot.

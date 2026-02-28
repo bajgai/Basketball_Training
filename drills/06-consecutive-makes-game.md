@@ -2,6 +2,8 @@
 
 > Source: Brandon Payne Offseason Workout
 
+![Consecutive Makes Game](../images/06-consecutive-makes-game.png)
+
 ## Overview
 
 A pressure shooting drill where you must make consecutive shots from each of five spots before moving on. The consecutive requirement descends each round, and you run between rounds to keep your heart rate elevated. This simulates game-condition shooting where you rarely shoot while rested.

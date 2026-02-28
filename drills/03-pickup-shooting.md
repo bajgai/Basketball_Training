@@ -2,6 +2,8 @@
 
 > Source: Curry MasterClass, Brandon Payne Offseason Workout
 
+![Pickup Shooting — Energy Transfer](../images/03-pickup-shooting.png)
+
 ## Overview
 
 The "pickup" is the finishing move of any off-the-dribble shot — the moment the ball comes off the last dribble into your shot pocket. This drill isolates that transition and is **critical for energy transfer from the ground through the shot**, especially when extending to three-point range.
